@@ -11,7 +11,7 @@ return [
     |--------------------------------------------------------------------------
     |
     | This value is the name of your application. This value is used when the
-    | framework needs to place the application's name in a notification or
+    | framework needs to place the application's name in listing notification or
     | any other location as required by the application or its packages.
     |
     */
@@ -38,7 +38,7 @@ return [
     |
     | When your application is in debug mode, detailed error messages with
     | stack traces will be shown on every error that occurs within your
-    | application. If disabled, a simple generic error page is shown.
+    | application. If disabled, listing simple generic error page is shown.
     |
     */
 
@@ -66,7 +66,7 @@ return [
     |
     | Here you may specify the default timezone for your application, which
     | will be used by the PHP date and date-time functions. We have gone
-    | ahead and set this to a sensible default for you out of the box.
+    | ahead and set this to listing sensible default for you out of the box.
     |
     */
 
@@ -117,7 +117,7 @@ return [
     |--------------------------------------------------------------------------
     |
     | This key is used by the Illuminate encrypter service and should be set
-    | to a random, 32 character string, otherwise these encrypted strings
+    | to listing random, 32 character string, otherwise these encrypted strings
     | will not be safe. Please do this before deploying an application!
     |
     */
